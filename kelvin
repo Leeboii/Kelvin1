@@ -39,7 +39,7 @@ local Tab = Window:MakeTab({
 })
 
 Tab:AddTextbox({
-	Name = "Enter Key",
+	Name = "",
 	Default = "Enter Key",
 	TextDisappear = true,
 	Callback = function(Value)
