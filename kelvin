@@ -7,7 +7,8 @@ OrionLib:MakeNotification({
 	Time = 5
 })
 
-_G.Key = "dfjbjfdjjbfdjbj"
+_G.Key = "LeeKey"
+_G.Key = "GaneKey"
 _G.KeyInput = "string"
 
 function MakeScriptHub()
