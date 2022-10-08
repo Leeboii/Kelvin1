@@ -7,7 +7,7 @@ local Tab = Window:MakeTab({
 })
 
 Tab:AddButton({
-	Name = "DarkHub!",
+	Name = "DarkHub",
 	Callback = function()
       		loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()
   	end    
