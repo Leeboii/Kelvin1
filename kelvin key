@@ -11,7 +11,7 @@ _G.Key = "jfdhvjfhjvhdjfvhkdjfhvkjdfhvkjdfhuvhdufvhudhvudfhvudfhuvhdfuvbdfhvkhfd
 _G.KeyInput = "string"
 
 function MakeScriptHub()
-https://raw.githubusercontent.com/Leeboii/Kelvin1/main/kelvin.txt
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Leeboii/Kelvin1/main/kelvin.txt')))()
 
 end
 
@@ -57,4 +57,3 @@ Tab:AddButton({
         end
   	end    
 })
-
