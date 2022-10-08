@@ -11,7 +11,7 @@ _G.Key = "therealkey" -- You Put Your Key Here
 _G.KeyInput = "string"
 
 function MakeScriptHub()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/Leeboii/Kelvin1/main/kelvin.txt')))()
+https://raw.githubusercontent.com/Leeboii/Kelvin1/main/kelvin.txt
 
 end
 
